@@ -47,15 +47,15 @@ Here is what you will need.
 -  Sufficient disk space, memory, processor power to comfortably run
    Visual Studio (details below)
 -  An Internet connection.
--  Visual Studio 2013 community edition
+-  Visual Studio 2015 community edition
 
 Install Visual Studio and DirectX and Python
 ============================================
 
-The first step is to get `Microsoft Visual Studio 2013 <http://www.visualstudio.com/>`__\ installed and working in your
+The first step is to get `Microsoft Visual Studio 2015 <http://www.visualstudio.com/>`__\ installed and working in your
 Windows system.
 
--  Download and install MS Visual Studio 2013 Community Edition which
+-  Download and install MS Visual Studio 2015 Community Edition which
    can be found `here <http://www.visualstudio.com/>`__.
 -  Reboot your PC
 -  Start Visual Studio from the Start Menu
